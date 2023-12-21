@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>City Information Form</title>
+</head>
+<body>
+    
+    <form action="https://www2.cs.torontomu.ca/~asipahi/cgi-bin/lab10r.cgi" method="post" enctype="multipart/form-data">
+        <!--  CGI/Ruby -->
+        <label for="city_ruby">City:</label>
+        <input type="text" id="city_ruby" name="city" required><br><br>
+        
+        <label for="province_ruby">Province:</label>
+        <input type="text" id="province_ruby" name="province"><br><br>
+        
+        <label for="country_ruby">Country:</label>
+        <input type="text" id="country_ruby" name="country" required><br><br>
+        
+        <label for="picture_url_ruby">Picture URL:</label>
+        <input type="text" id="picture_url_ruby" name="picture_url" required><br><br>
+        
+        <input type="submit" value="Submit to CGI/Ruby">
+    </form>
+    
+    <form action="https://www2.cs.torontomu.ca/~asipahi/cgi-bin/lab10p.cgi" method="post">
+        <!--  CGI/Python  -->
+        <label for="city_python">City:</label>
+        <input type="text" id="city_python" name="city" required><br><br>
+        
+        <label for="province_python">Province:</label>
+        <input type="text" id="province_python" name="province"><br><br>
+        
+        <label for="country_python">Country:</label>
+        <input type="text" id="country_python" name="country" required><br><br>
+        
+        <label for="picture_url_python">Picture URL:</label>
+        <input type="text" id="picture_url_python" name="picture_url" required><br><br>
+        
+       
+        <input type="submit" value="Submit to CGI/Python">
+    </form>
+</body>
+</html>
