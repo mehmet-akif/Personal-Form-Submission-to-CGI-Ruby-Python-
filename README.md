@@ -4,8 +4,11 @@
 ## Description
 Explore server-side form submission using CGI (Ruby/Python) with this project. Witness the seamless flow of user-submitted information and photos to CGI scripts for processing. Dive into the world of server-side handling and redirection, highlighting the versatility of Ruby and Python in processing user inputs. Experience the behind-the-scenes interaction between web forms and CGI scripts, showcasing the power of server-side processing in web applications.
 
-## Screenshots
-![Form Submission](preview.png)
+## Link and Screenshots
+![Form Submission](sscreenshot1.jpeg)
+![Form Submission](sscreenshot2.jpeg)
+![Form Submission](sscreenshot3.jpeg)
+
 
 For an interactive experience, check out the live website: https://www.cs.ryerson.ca/~asipahi/lab10b.html
 
