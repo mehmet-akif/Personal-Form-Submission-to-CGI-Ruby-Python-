@@ -28,7 +28,9 @@ For an interactive experience, check out the live website: https://www.cs.ryerso
 - **HTML/CSS**: Frontend for form creation and structure.
 - **CGI (Common Gateway Interface)**: Connects web servers to external programs for server-side processing.
 
-
+## VPN Requirement
+- **Note**: Connection via Ryerson VPN is required to access and interact with the application.  
+  
 ## Note
 Ensure the web server environment supports CGI scripting for proper functionality.
 
